@@ -2,8 +2,7 @@
 QR Kod Oluşturma ve Okuma
 
 <p style="font-size:110%;">Yazıldığı dil : Python</p>
-<br>
-<h4>Kullanılan kütüphaneler</h4>
+##Kullanılan kütüphaneler
 <ul style="font-size:110%;">
   <li>tkinter</li>
   <li>qrcode</li>
