@@ -4,15 +4,6 @@ QR Kod Oluşturma ve Okuma
 Yazıldığı dil : Python
 
 Kullanılan kütüphaneler
-
-<ul style="font-size:110%;">
-  <li>tkinter</li>
-  <li>qrcode</li>
-  <li>pyzbar</li>
-  <li>PIL</li>
-  <li>datetime</li>
-</ul>
-
 * `tkinter`
 * `qrcode`
 * `pyzbar`
