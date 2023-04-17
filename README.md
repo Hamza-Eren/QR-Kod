@@ -12,3 +12,8 @@ QR Kod Oluşturma ve Okuma
 </ul>
 <br>
 <p style="font-size:110%;">Açıklama:<br>Uygulama QR Kod oluşturma ve okuma olmak üzere iki parçadan oluşan bir arayüze sahiptir. qr kod olan png dosyalarını okur ve size sunduğu seçeneklere göre (arka-ön plan rengi, kutu-kenar büyüklüğü ve kenar rengi) bir qr kod oluşturmanıza olanak sağlar.</p>
+
+<h3>Arayüz Örnekleri</h3>
+![QR Kod Oluşturma Ekranı](https://github.com/Hamza-Eren/QR-Kod/blob/main/%C3%B6rnek/QRKodOlusturmaEkrani.png)
+---
+![QR Kod Okuma Ekranı](https://github.com/Hamza-Eren/QR-Kod/blob/main/%C3%B6rnek/QRKodOkumaEkrani.png)
